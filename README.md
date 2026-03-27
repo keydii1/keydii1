@@ -71,18 +71,3 @@
 </div>
 
 <br/>
-
----
-
-<div align="center">
-  <h3>🔥 GitHub Stats 🔥</h3>
-  <br/>
-  <p>
-    <a href="https://github.com/keydii1">
-      <img src="https://github-readme-stats.vercel.app/api?username=keydii1&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" width="48%" />
-    </a>
-    <a href="https://github.com/keydii1">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keydii1&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" width="48%" />
-    </a>
-  </p>
-</div>
