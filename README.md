@@ -1,24 +1,88 @@
-# 💫 About Me:
-🔭 I’m currently building backend systems with Node.js, Express, and MongoDB<br>🤝 I’m looking to collaborate on backend projects and RESTful API development<br>🛠️ I’m looking for help with system design and scalable architecture<br>🌱 I’m currently learning advanced authentication, security, and clean architecture<br>💬 Ask me about Node.js, JWT authentication, and backend development<br>⚡ Fun fact: I enjoy building secure systems and optimizing performance
+<div align="center">
+  <a href="https://github.com/keydii1">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=BACKEND+DEVELOPER;NODE.JS+%26+EXPRESS;API+ARCHITECT" alt="Typing SVG" />
+  </a>
+  <p><i>WHEN LIFE CHANCES TO BE HARDER, CHANGE YOURSELF TO BE STRONGER</i></p>
+</div>
 
+<br/>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/hoang_son1999) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/son.ho.hoang.631522) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_hoangzsonn) 
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Cat GIF" width="200" />
+</div>
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge&logo=Apache%20Ant&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Keydii1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Keydii1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Keydii1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Keydii1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+  <h2>Hi There! 👋</h2>
+  <p><b>I'm a Backend Developer based in Vietnam 🇻🇳</b></p>
+  <p>🌱 I'm currently building backend systems with <b>Node.js, Express, and MongoDB</b></p>
+  <p>🔭 I'm looking to collaborate on <b>backend projects and RESTful API development</b></p>
+  <p>🤔 I'm looking for help with <b>system design and scalable architecture</b></p>
+  <p>📚 I'm currently learning <b>advanced authentication, security, and clean architecture</b></p>
+  <p>💬 Ask me about <b>Node.js, JWT authentication, and backend development</b></p>
+  <p>⚡ Fun fact: <i>I enjoy building secure systems and optimizing performance</i></p>
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Keydii1&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <p><b>Let's Connect:</b></p>
+  <a href="https://discordapp.com/users/your-discord-id">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://facebook.com/son.ho.hoang.631522">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.instagram.com/your-insta">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
+
+<br/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Keydii1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <h3>🛠 Languages - Frameworks - Tools 🛠</h3>
+  <br/>
+  <!-- Using skillicons.dev to get the beautiful rounded badges like in your video -->
+  <p>
+    <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,java&perline=10" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,graphql,react&perline=10" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=gcp,npm,latex,ps,redux,html,css,bootstrap&perline=10" />
+  </p>
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+  <h3>🐍 My Contributions 🐍</h3>
+  <p>
+    <!-- Note: You will need to setup the github-readme-snake action in your repo for this to generate -->
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/keydii1/keydii1/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/keydii1/keydii1/output/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/keydii1/keydii1/output/github-contribution-grid-snake.svg" width="800">
+    </picture>
+  </p>
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+  <h3>🔥 GitHub Stats 🔥</h3>
+  <br/>
+  <p>
+    <a href="https://github.com/keydii1">
+      <img src="https://github-readme-stats.vercel.app/api?username=keydii1&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" width="48%" />
+    </a>
+    <a href="https://github.com/keydii1">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keydii1&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" width="48%" />
+    </a>
+  </p>
+</div>
